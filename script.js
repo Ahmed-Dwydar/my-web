@@ -1,4 +1,3 @@
 function changeText() {
-  document.querySelector("h1").textContent = "fuck you😂😂
-";
+  document.querySelector("h1").textContent = "fuck you😂😂";
 }
